@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
-        title: const Text('My First App'),
+        title: const Text('Challenge 1'),
       ),
       body: _isWinner
           ? Center(
